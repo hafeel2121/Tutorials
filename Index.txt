@@ -2,6 +2,7 @@ This is the C# tutorials
 
 One of the good language
 
-
+Currently i'm making inventory system project this Code
+need to check requirement
 
 
